@@ -6,12 +6,12 @@ game.GameOverScene = cc.Scene.extend({
     onEnter:function(){
         this._super();
 
-        if(game._Config.show_ads && game._Config.language == game._Enum.language.en) {
-            Ads.fullViewAds(function(){
-                //clearInterval(timer);
-                //runScene();
-            });
-        }
+        //if(game._Config.show_ads && game._Config.language == game._Enum.language.en) {
+        //    Ads.fullViewAds(function(){
+        //        //clearInterval(timer);
+        //        //runScene();
+        //    });
+        //}
 
 
         var layer = new game.GameOverLayer(this._data);

@@ -145,11 +145,7 @@ game.GameOverLayer = cc.Layer.extend({
         var moreFrame = cc.spriteFrameCache.getSpriteFrame("www.png");
         var moreItem = new cc.MenuItemImage(moreFrame,moreFrame, moreFrame, function(){
 
-            if(game._Config.language == game._Enum.language.en){
-                window.location.href="http://ookor.com";
-            }else {
-                window.location.href="http://www.59600.com";
-            }
+            window.location.href="http://mingz.me";
 
         }, this);
 

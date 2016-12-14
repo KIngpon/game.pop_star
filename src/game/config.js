@@ -4,7 +4,7 @@
 game._Config = {
     language : game._Enum.language.en,    // cn or en
 
-    show_ads : false,
+    //show_ads : false,
 
 
     row_num : 10, // 行数
