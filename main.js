@@ -77,6 +77,6 @@ cc.game.onStart = function(){
 };
 
 
-//window.location.href.match('ookor')&&
+//window.location.href.match('mingz')&&
 cc.game.run();
 

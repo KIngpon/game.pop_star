@@ -32,7 +32,7 @@
 //
 //
 //Ads.fullViewAds = function(rootDivId, closeCallback){
-//    var url = "http://googleads.g.doubleclick.net/pagead/ads?ad_type=image_flash&client=ca-games-pub-9474641572216293&description_url=http%3A%2F%2Fookor.com&videoad_start_delay=0&hl=zh_CN";
+//    var url = "http://googleads.g.doubleclick.net/pagead/ads?ad_type=image_flash&client=ca-games-pub-9474641572216293&description_url=http%3A%2F%2Fmingz.com&videoad_start_delay=0&hl=zh_CN";
 //    //var url = "http://googleads.g.doubleclick.net/pagead/ads?ad_type=image_text_flash_video&client=ca-games-pub-4968145218643279&videoad_start_delay=0&description_url=http%3A%2F%2Fwww.google.com&hl=en&max_ad_duration=40000&adtest=on";
 //    //var winSize = cc.winSize;
 //    var clientWidth = document.body.clientWidth;
@@ -45,7 +45,7 @@
 //};
 //
 //Ads.bottomAds = function(rootDivId, closeCallback){
-//    var url = "http://googleads.g.doubleclick.net/pagead/ads?ad_type=text&client=ca-games-pub-9474641572216293&description_url=http%3A%2F%2Fookor.com&videoad_start_delay=0&hl=zh_CN";
+//    var url = "http://googleads.g.doubleclick.net/pagead/ads?ad_type=text&client=ca-games-pub-9474641572216293&description_url=http%3A%2F%2Fmingz.com&videoad_start_delay=0&hl=zh_CN";
 //    //var url = "http://googleads.g.doubleclick.net/pagead/ads?ad_type=image_text_flash_video&client=ca-games-pub-4968145218643279&videoad_start_delay=0&description_url=http%3A%2F%2Fwww.google.com&hl=en&max_ad_duration=40000&adtest=on";
 //    //var winSize = cc.winSize;
 //    var clientWidth = document.body.clientWidth;
